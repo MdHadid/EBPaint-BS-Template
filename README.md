@@ -1,1 +1,0 @@
-It is PSD to HTML mobile responsive bootstrap template.
